@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "sanjib",
+        "MONGO_PASSWORD": "sanjib",
+        "MONGO_DB": "AILab"
+    }
+}
